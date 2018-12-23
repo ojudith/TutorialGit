@@ -1,2 +1,2 @@
 #myApp
-This is a breif tutorial...Thanks
+This is a brief tutorial...Thanks
